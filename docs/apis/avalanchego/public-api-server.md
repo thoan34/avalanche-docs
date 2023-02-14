@@ -293,3 +293,13 @@ Features:
 ##### HTTPS
 
 - For C-Chain API, the URL is `https://avalanche-evm.publicnode.com`
+
+### BlockSpaces
+
+[BlockSpaces](https://www.blockspaces.com/web3-infrastructure) supports the C-Chain.
+
+#### Mainnet
+
+##### HTTP
+
+- For C-Chain RPC Endpoint AVAX, the URL is `https://web3endpoints.com/avax-mainnet`
